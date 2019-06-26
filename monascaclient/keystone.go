@@ -15,7 +15,7 @@
 package monascaclient
 
 import (
-	"github.com/gophercloud/gophercloud/openstack"
+	"github.com/cro8ox/gophercloud/openstack"
 )
 
 func SetKeystoneToken() error {
