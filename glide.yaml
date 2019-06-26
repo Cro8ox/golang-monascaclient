@@ -1,5 +1,5 @@
 package: github.com/monasca/golang-monascaclient
 import:
-- package: github.com/gophercloud/gophercloud
+- package: github.com/cro8ox/gophercloud
   subpackages:
   - openstack
