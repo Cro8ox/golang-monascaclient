@@ -1,4 +1,4 @@
-package: github.com/monasca/golang-monascaclient
+package: github.com/cro8ox/golang-monascaclient
 import:
 - package: github.com/cro8ox/gophercloud
   subpackages:

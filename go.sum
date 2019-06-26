@@ -1,0 +1,7 @@
+github.com/cro8ox/gophercloud v0.0.0-20190626030516-acfd9ca08f5b h1:3QjPnWuiInGn0t04wWGN+RyM7xoHATlBXg32hxB0dog=
+github.com/cro8ox/gophercloud v0.0.0-20190626030516-acfd9ca08f5b/go.mod h1:OUwj2isMe7SbqgJRXBqcnMEpJN6FyF58lPmoVV3Uu6g=
+github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
+golang.org/x/crypto v0.0.0-20190211182817-74369b46fc67/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/sys v0.0.0-20190209173611-3b5209105503/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

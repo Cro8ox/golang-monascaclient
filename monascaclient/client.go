@@ -19,13 +19,14 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"fmt"
-	"github.com/cro8ox/gophercloud"
-	"github.com/cro8ox/gophercloud/openstack"
 	"io/ioutil"
 	"net/http"
 	"net/url"
 	"strings"
 	"time"
+
+	"github.com/cro8ox/gophercloud"
+	"github.com/cro8ox/gophercloud/openstack"
 )
 
 var (
