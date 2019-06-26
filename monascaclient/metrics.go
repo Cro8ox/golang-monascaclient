@@ -16,7 +16,7 @@ package monascaclient
 
 import (
 	"encoding/json"
-	"github.com/monasca/golang-monascaclient/monascaclient/models"
+	"github.com/cro8ox/golang-monascaclient/monascaclient/models"
 	"net/url"
 )
 
